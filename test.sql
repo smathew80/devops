@@ -1,9 +1,1 @@
-djaskd
-sdas
-asdaffgfg7
-ghghghghdjkds
-we are ready
-sdffs
-C
-hdajhdaasda
-fsdf
+This code is for git hub
