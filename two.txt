@@ -1,1 +1,3 @@
-Testting something
+Testing diff commands
+test the same
+does not diff after stage
