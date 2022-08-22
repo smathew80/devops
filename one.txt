@@ -1,1 +1,2 @@
 This is not staged as well as commited
+Some changes done
